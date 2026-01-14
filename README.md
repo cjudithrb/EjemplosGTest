@@ -29,9 +29,6 @@ g++ -std=c++17 tests/suma_test_basic.cpp -o build/suma_test -lgtest -lgtest_main
 .\build\suma_test.exe
 ```
 
-g++ -std=c++17 tests/contrasena_test.cpp -o build/contrasena_test -lgtest -lgtest_main
-.\build\contrasena_test.exe
-
 ## Cómo agregar nuevas funciones
 
 1. **Crea tu función en `src/`**
