@@ -1,7 +1,6 @@
 # 📝 EJERCICIOS PRÁCTICOS: UNIT TESTS CON GTEST
 
-## Información del curso
-**Asignatura:** Ingeniería de Software  
+## Información:
 **Tema:** Pruebas Unitarias con Google Test (GTest)  
 **Docente:** Mg. Judiht Rojas  
 **Objetivo:** Aplicar los conceptos de testing unitario en casos prácticos reales
